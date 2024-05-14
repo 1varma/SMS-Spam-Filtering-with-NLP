@@ -2,6 +2,9 @@ Sure, here's a README.md file for your GitHub repository:
 
 ---
 
+![Process-of-SMS-Spam-Detection](https://github.com/1varma/SMS-Spam-Filtering-with-NLP/assets/39651154/328e0455-405b-43ae-8f49-abed7525f07c)
+
+
 # SMS Spam Filtering with NLP
 
 ## Overview
