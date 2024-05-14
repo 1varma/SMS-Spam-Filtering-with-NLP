@@ -1,8 +1,4 @@
-Sure, here's a README.md file for your GitHub repository:
-
----
-
-# SMS Spam Detection using Machine Learning
+# <a href="https://archive.ics.uci.edu/dataset/228/sms+spam+collection">SMS Spam Detection using Machine Learning</a>
 
 This repository contains code for building a machine learning model to detect spam SMS messages using natural language processing (NLP) techniques.
 
